@@ -17,7 +17,11 @@
   <img src="https://img.shields.io/badge/Express.js-%E2%9C%93-black" />
   <img src="https://img.shields.io/badge/MongoDB-%E2%9C%93-47A248" />
   <img src="https://img.shields.io/badge/TailwindCSS-%E2%9C%93-38B2AC" />
-</p>
+  <img src="https://img.shields.io/badge/Redux-%E2%9C%93-764ABC" />
+  <img src="https://img.shields.io/badge/JWT-%E2%9C%93-black" />
+  <img src="https://img.shields.io/badge/Firebase-%E2%9C%93-FFCA28" />
+</p>  
+
 
 ---
 
@@ -85,11 +89,14 @@ Eco Basket is an eco-friendly e-commerce platform designed to promote sustainabl
 | 🏆 Technology | 🌐 Description |
 |--------------|---------------|
 | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) | JavaScript library for building user interfaces |
+| ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux) | State management library |
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) | JavaScript runtime for backend development |
 | ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express) | Minimalist web framework for Node.js |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb) | NoSQL database for efficient data management |
-| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css) | Utility-first CSS framework for modern styling |
 | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens) | Secure user authentication |
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css) | Utility-first CSS framework for modern styling |
+| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase) | Real-time database and authentication |
+
 
 ---
 

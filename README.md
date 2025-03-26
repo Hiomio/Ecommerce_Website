@@ -46,7 +46,7 @@ Eco Basket is an eco-friendly e-commerce platform designed to promote sustainabl
 ✅ Secure user authentication (JWT-based)  
 ✅ Efficient product search and filtering  
 ✅ Cart and order management  
-✅ Integrated payment gateway (Stripe/PayPal)  
+✅ Integrated payment gateway (Stripe)  
 ✅ High performance and scalability  
 
 ---

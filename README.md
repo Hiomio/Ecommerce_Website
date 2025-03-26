@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/shop.gif" width="100" alt="Eco-friendly shopping cart" />
+  <img src="https://media.giphy.com/media/jpX9sVQU1py8tnyW3L/giphy.gif" width="100" alt="Eco-friendly leaf" />
 </div>
 
 

@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/26BRBupa6nRXMGBP2/giphy.gif" width="100" alt="Shopping Cart" />
+  <img src="https://media.tenor.com/51P8g8AdTOwAAAAj/leaf-eco.gif" width="100" alt="Eco-friendly leaf" />
 </div>
-
-
 
 # 🌿 Echo Basket  
 > **Your Eco-Friendly Shopping Destination**  

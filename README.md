@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/shop.gif" width="100" alt="Eco-friendly shopping cart" />
 </div>
+
 
 # 🌿 Eco Basket  
 > **Your Eco-Friendly Shopping Destination**  

@@ -50,7 +50,7 @@ Eco Basket is an eco-friendly e-commerce platform designed to promote sustainabl
 ## 🖼️ **Screenshots**
 ### 🏠 **Home Page**
 <p align="center">
-  <img src="./path-to-your-homepage-screenshot.png" alt="Home Page" width="800"/>
+  <img src="./"C:\Users\BLESSY\OneDrive\Pictures\Screenshots\Screenshot (33).png"" alt="Home Page" width="800"/>
 </p>
 
 ### 🛍️ **Product Page**

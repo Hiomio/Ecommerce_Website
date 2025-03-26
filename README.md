@@ -48,19 +48,35 @@ Eco Basket is an eco-friendly e-commerce platform designed to promote sustainabl
 ---
 
 ## 🖼️ **Screenshots**
+
 ### 🏠 **Home Page**
 <p align="center">
-  <img src="./"C:\Users\BLESSY\OneDrive\Pictures\Screenshots\Screenshot (33).png"" alt="Home Page" width="800"/>
+  <img src="./screenshots/2025-03-08%20(15).png" alt="Home Page" width="800"/>
 </p>
 
-### 🛍️ **Product Page**
+### 🔑 **Signup Page**
 <p align="center">
-  <img src="./path-to-your-productpage-screenshot.png" alt="Product Page" width="800"/>
+  <img src="./screenshots/signup.png" alt="Signup Page" width="800"/>
 </p>
 
-### 🛒 **Cart and Checkout**
+### 🔐 **Sign In Page**
 <p align="center">
-  <img src="./path-to-your-checkout-screenshot.png" alt="Checkout" width="800"/>
+  <img src="./screenshots/signin.png" alt="Sign In Page" width="800"/>
+</p>
+
+### 🛒 **Cart Page**
+<p align="center">
+  <img src="./screenshots/cart.png" alt="Cart Page" width="800"/>
+</p>
+
+### 🧾 **Order Summary**
+<p align="center">
+  <img src="./screenshots/order_summary.png" alt="Order Summary" width="800"/>
+</p>
+
+### 💳 **Payment Page**
+<p align="center">
+  <img src="./screenshots/payment.png" alt="Payment Page" width="800"/>
 </p>
 
 ---

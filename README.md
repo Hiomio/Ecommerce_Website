@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="./path-to-your-logo.png" alt="Eco Basket Logo" width="150"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 </div>
 
 # 🌿 Eco Basket  
 > **Your Eco-Friendly Shopping Destination**  
 
-🌟 *A full-stack eco-friendly e-commerce platform built with React, Node.js, Express.js, and MongoDB*  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=Eco-friendly+E-commerce+Platform;Built+with+React+%7C+Node.js+%7C+MongoDB;Secure+and+Scalable+Backend+System" />
+</p>  
 
 ---
 
@@ -23,25 +25,25 @@
 Eco Basket is an eco-friendly e-commerce platform designed to promote sustainable living. It offers a seamless shopping experience with a focus on performance, security, and user convenience.  
 
 ### ✅ **Frontend:**  
-Built with **React.js**, **HTML**, **TailwindCSS**, and **JavaScript**, the frontend provides a modern and responsive interface, allowing users to browse and purchase sustainable products with ease.  
+🚀 Built with **React.js**, **HTML**, **TailwindCSS**, and **JavaScript**, the frontend provides a modern and responsive interface, allowing users to browse and purchase sustainable products with ease.  
 
 ### ✅ **Backend:**  
-Developed using **Node.js** and **Express.js**, the backend follows a modular and scalable architecture, handling:  
-- 🔐 User authentication  
-- 📦 Product listings  
-- 🛒 Cart and order processing  
-- 💳 Secure payment integration  
+⚡ Developed using **Node.js** and **Express.js**, the backend follows a modular and scalable architecture, handling:  
+- 🔐 **User authentication**  
+- 📦 **Product listings**  
+- 🛒 **Cart and order processing**  
+- 💳 **Secure payment integration**  
 
 ---
 
 ## 🚀 **Features**
-✨ Modern and responsive UI with TailwindCSS  
-✨ RESTful APIs for smooth data flow  
-✨ Secure user authentication (JWT-based)  
-✨ Efficient product search and filtering  
-✨ Cart and order management  
-✨ Integrated payment gateway (Stripe/PayPal)  
-✨ High performance and scalability  
+✅ Modern and responsive UI with TailwindCSS  
+✅ RESTful APIs for smooth data flow  
+✅ Secure user authentication (JWT-based)  
+✅ Efficient product search and filtering  
+✅ Cart and order management  
+✅ Integrated payment gateway (Stripe/PayPal)  
+✅ High performance and scalability  
 
 ---
 
@@ -66,12 +68,12 @@ Developed using **Node.js** and **Express.js**, the backend follows a modular an
 ## 🏗️ **Tech Stack**
 | 🏆 Technology | 🌐 Description |
 |--------------|---------------|
-| **React.js**       | JavaScript library for building user interfaces |
-| **Node.js**         | JavaScript runtime for backend development |
-| **Express.js**       | Minimalist web framework for Node.js |
-| **MongoDB**         | NoSQL database for efficient data management |
-| **TailwindCSS**     | Utility-first CSS framework for modern styling |
-| **JWT**             | JSON Web Tokens for secure user authentication |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) | JavaScript library for building user interfaces |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) | JavaScript runtime for backend development |
+| ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express) | Minimalist web framework for Node.js |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb) | NoSQL database for efficient data management |
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css) | Utility-first CSS framework for modern styling |
+| ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens) | Secure user authentication |
 
 ---
 

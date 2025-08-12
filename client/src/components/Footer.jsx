@@ -127,9 +127,7 @@ const Footer = () => {
       <Left>
         <Logo>EchoBasket.</Logo>
         <Desc>
-          There are many variations of passages of Lorem Ipsum available, but
-          the majority have suffered alteration in some form, by injected
-          humour, or randomised words which don’t look even slightly believable.
+Many variations of text and ideas exist in the world, but at EchoBasket, we believe in keeping it authentic. While others may alter, distort, or randomize, we focus on crafting content that’s clear, engaging, and truly believable. Every word we deliver echoes your vision 
         </Desc>
         <SocialContainer>
           <SocialIcon color="3B5999">
@@ -163,13 +161,13 @@ const Footer = () => {
       <Right>
         <Title>Contact</Title>
         <ContactItem>
-          <HomeIcon style={{ marginRight: "10px" }} /> IIIT RANCHI
+          <HomeIcon style={{ marginRight: "10px" }} /> IIIT Bhagalpur
         </ContactItem>
         <ContactItem>
           <LocalPhoneIcon style={{ marginRight: "10px" }} /> +1 234 56 78
         </ContactItem>
         <ContactItem>
-          <ContactMailIcon style={{ marginRight: "10px" }} /> contact@abhishek
+          <ContactMailIcon style={{ marginRight: "10px" }} /> contact@himabindhu
         </ContactItem>
         <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
       </Right>

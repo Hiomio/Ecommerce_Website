@@ -199,10 +199,10 @@ const Navbar = ({ user }) => {
               to="/"
               style={{
                 textDecoration: "none",
-                color: "red",
+                color: "1B998B",
               }}
             >
-              EchoBasket
+BuyHive
             </Link>
           </Logo>
         </Center>

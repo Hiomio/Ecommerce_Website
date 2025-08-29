@@ -125,9 +125,9 @@ const Footer = () => {
   return (
     <Container>
       <Left>
-        <Logo>EchoBasket.</Logo>
+        <Logo>BuyHive</Logo>
         <Desc>
-Many variations of text and ideas exist in the world, but at EchoBasket, we believe in keeping it authentic. While others may alter, distort, or randomize, we focus on crafting content that’s clear, engaging, and truly believable. Every word we deliver echoes your vision 
+In a world full of noise and endless variations, BuyHive stands for authenticity. While others may twist or randomize content, we craft messages that are clear, engaging, and genuinely trustworthy. Every word we deliver reflects your vision, with honesty and impact.
         </Desc>
         <SocialContainer>
           <SocialIcon color="3B5999">
